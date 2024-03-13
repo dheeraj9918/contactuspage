@@ -1,0 +1,58 @@
+.containor{
+display: flex;
+max-width: 1000px;
+margin: 0 auto;
+margin-top: 25px;
+gap: 24px;
+align-items: end;
+padding-bottom: 20px;
+
+}
+.sec_conatiner{
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+.sec_conatiner form{
+    display: flex;
+    flex-direction: column;
+    gap:24px;
+}
+.tob_btn{
+    display:flex;
+    gap:32px;
+    justify-content: space-between;
+}
+.form_control{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+}
+.form_control input{
+    height: 40px;
+    padding: 0 8px;
+}
+.form_control label{
+    position:absolute;
+    top:-12px;
+    left:10px;
+    background-color: white;
+    padding: 0 8px;
+}
+.textarea{
+    padding:15px;
+}
+.sub_button{
+    padding:18px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 220px;
+    gap:8px;
+    background-color: black;
+    color:white;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer; 
+}

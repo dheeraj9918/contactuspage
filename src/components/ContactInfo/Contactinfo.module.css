@@ -1,0 +1,12 @@
+.contactinfo{
+    max-width: 1000px;
+    margin:0 auto;
+    margin-top: 50px;
+  }
+  .contactinfo h1{
+    font-size: 48px;
+    font-weight: 800;
+  }
+  .contactinfo p{
+    font-weight: 500;
+  }

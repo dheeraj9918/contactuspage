@@ -1,0 +1,27 @@
+.primary_btn{
+    padding:18px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 220px;
+    gap:8px;
+    background-color: black;
+    color:white;
+    font-weight: 500;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sec_btn{
+    padding:18px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 220px;
+    gap:8px;
+    background-color:white;
+    color:black;
+    font-weight: 500;
+    border-radius: 1px solid black;
+    width: 100%;
+    cursor: pointer;
+}
